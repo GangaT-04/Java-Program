@@ -1,2 +1,2 @@
 # Java-Program
-Basics of java Programs
+Basic Java Programming
